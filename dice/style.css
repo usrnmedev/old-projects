@@ -1,0 +1,44 @@
+.container {
+  width: 1000px;
+  text-align: center;
+  margin: auto;
+}
+
+.dice {
+  display: inline-block;
+  margin: 50px;
+}
+
+h1 {
+  font-size: 300%;
+  color: aqua;
+}
+
+h2 {
+  font-size: 200%;
+  color: yellow;
+}
+
+.btn {
+  padding: 20px;
+  background-color: #fff;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 150%;
+  border-radius: 20px;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.footer {
+  font-size: 150%;
+  color: orange;
+}
+
+body {
+  background-image: url(https://media.giphy.com/media/3oGRFlpAW4sIHA02NW/giphy.gif);
+}
